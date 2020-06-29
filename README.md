@@ -1,5 +1,8 @@
 # OGGenerator
 
+**Created By SaltyBunnyRR1#5600 (Discord)**
+
+
  This is a basic script I wrote in **node.js** to find random, available minecraft usernames.
 
 # Instalation:
