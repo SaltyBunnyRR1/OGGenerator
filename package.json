@@ -1,0 +1,22 @@
+{
+  "name": "oggenerator",
+  "version": "1.0.0",
+  "description": "Node.js script to find random, available Minecraft usernames",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SaltyBunnyRR1 and zane-programs",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zane-programs/OGGenerator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zane-programs/OGGenerator/issues"
+  },
+  "homepage": "https://github.com/zane-programs/OGGenerator#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
