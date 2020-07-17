@@ -5,7 +5,7 @@
 
  This is a basic script I wrote in **node.js** to find random, available minecraft usernames.
 
-# Instalation:
+# Installation:
 >> You Must Have Node.js & NPM installed. Install Them At https://nodejs.org/en/download 
 1. Clone this project into a new folder on your pc through whichever method you want.
 2. Using command prompt, cd into this folder.
